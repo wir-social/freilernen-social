@@ -2,7 +2,7 @@
   "name": "freilernen.social",
   "version": "1.0.5",
   "ocelotDockerVersionTag": "1.0.5-153",
-  "dockerOrganisation": "freilernensocial",
+  "dockerOrganisation": "wollehuss",
   "description": "freilernen.social Network driven by ocelot.social",
   "author": "ocelot.social Community",
   "license": "MIT",
