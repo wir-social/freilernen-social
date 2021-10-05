@@ -3,8 +3,8 @@ name: ocelot.social publish branded CI
 on:
   push:
     branches:
-      # - master
-      - 1-first-rebranding-and-deployment # for testing while developing
+      - master
+      # - 1-first-rebranding-and-deployment # for testing while developing
 
 jobs:
   ##############################################################################
