@@ -1,3 +1,5 @@
 /dns.values.yaml
 /nginx.values.yaml
 /values.yaml
+/archiv.*
+/archiv/*
